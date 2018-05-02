@@ -1,0 +1,13 @@
+D:\train\WpfTrain\RouteEvents1\bin\Debug\RouteEvents1.exe.config
+D:\train\WpfTrain\RouteEvents1\bin\Debug\RouteEvents1.exe
+D:\train\WpfTrain\RouteEvents1\bin\Debug\RouteEvents1.pdb
+D:\train\WpfTrain\RouteEvents1\obj\Debug\MainWindow.g.cs
+D:\train\WpfTrain\RouteEvents1\obj\Debug\App.g.cs
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1_MarkupCompile.cache
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1_MarkupCompile.lref
+D:\train\WpfTrain\RouteEvents1\obj\Debug\MainWindow.baml
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1.g.resources
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1.Properties.Resources.resources
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1.csproj.GenerateResource.Cache
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1.exe
+D:\train\WpfTrain\RouteEvents1\obj\Debug\RouteEvents1.pdb

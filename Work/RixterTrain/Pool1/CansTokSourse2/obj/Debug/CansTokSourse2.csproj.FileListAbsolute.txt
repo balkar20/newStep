@@ -1,0 +1,5 @@
+D:\RixterTrain\RixterTrain\Pool1\CansTokSourse2\bin\Debug\CansTokSourse2.exe.config
+D:\RixterTrain\RixterTrain\Pool1\CansTokSourse2\bin\Debug\CansTokSourse2.exe
+D:\RixterTrain\RixterTrain\Pool1\CansTokSourse2\bin\Debug\CansTokSourse2.pdb
+D:\RixterTrain\RixterTrain\Pool1\CansTokSourse2\obj\Debug\CansTokSourse2.exe
+D:\RixterTrain\RixterTrain\Pool1\CansTokSourse2\obj\Debug\CansTokSourse2.pdb

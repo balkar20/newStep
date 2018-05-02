@@ -1,0 +1,6 @@
+D:\train\AdoTrain\AdoTrain\bin\Debug\AdoTrain.exe.config
+D:\train\AdoTrain\AdoTrain\bin\Debug\AdoTrain.exe
+D:\train\AdoTrain\AdoTrain\bin\Debug\AdoTrain.pdb
+D:\train\AdoTrain\AdoTrain\obj\Debug\AdoTrain.csprojResolveAssemblyReference.cache
+D:\train\AdoTrain\AdoTrain\obj\Debug\AdoTrain.exe
+D:\train\AdoTrain\AdoTrain\obj\Debug\AdoTrain.pdb

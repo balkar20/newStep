@@ -1,0 +1,13 @@
+D:\train\WpfTrain\WpfTrain\bin\Debug\WpfTrain.exe.config
+D:\train\WpfTrain\WpfTrain\bin\Debug\WpfTrain.exe
+D:\train\WpfTrain\WpfTrain\bin\Debug\WpfTrain.pdb
+D:\train\WpfTrain\WpfTrain\obj\Debug\MainWindow.g.cs
+D:\train\WpfTrain\WpfTrain\obj\Debug\App.g.cs
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain_MarkupCompile.cache
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain_MarkupCompile.lref
+D:\train\WpfTrain\WpfTrain\obj\Debug\MainWindow.baml
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain.g.resources
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain.Properties.Resources.resources
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain.csproj.GenerateResource.Cache
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain.exe
+D:\train\WpfTrain\WpfTrain\obj\Debug\WpfTrain.pdb

@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Closures\Closures\bin\Debug\Closures.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Closures\Closures\bin\Debug\Closures.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Closures\Closures\bin\Debug\Closures.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Closures\Closures\obj\Debug\Closures.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Closures\Closures\obj\Debug\Closures.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Closures\Closures\obj\Debug\Closures.pdb

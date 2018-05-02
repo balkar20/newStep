@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Pool1\bin\Debug\Pool1.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Pool1\bin\Debug\Pool1.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Pool1\bin\Debug\Pool1.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Pool1\obj\Debug\Pool1.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Pool1\obj\Debug\Pool1.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Pool1\obj\Debug\Pool1.pdb

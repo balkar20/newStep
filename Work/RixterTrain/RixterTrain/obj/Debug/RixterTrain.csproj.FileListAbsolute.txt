@@ -1,0 +1,6 @@
+D:\train\RixterTrain\RixterTrain\bin\Debug\RixterTrain.exe.config
+D:\train\RixterTrain\RixterTrain\bin\Debug\RixterTrain.exe
+D:\train\RixterTrain\RixterTrain\bin\Debug\RixterTrain.pdb
+D:\train\RixterTrain\RixterTrain\obj\Debug\RixterTrain.csprojResolveAssemblyReference.cache
+D:\train\RixterTrain\RixterTrain\obj\Debug\RixterTrain.exe
+D:\train\RixterTrain\RixterTrain\obj\Debug\RixterTrain.pdb

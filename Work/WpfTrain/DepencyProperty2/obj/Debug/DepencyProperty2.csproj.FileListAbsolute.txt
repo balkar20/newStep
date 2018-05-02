@@ -1,0 +1,14 @@
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\MainWindow.g.cs
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\App.g.cs
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2_MarkupCompile.cache
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2_MarkupCompile.lref
+D:\train\WpfTrain\DepencyProperty2\bin\Debug\DepencyProperty2.exe.config
+D:\train\WpfTrain\DepencyProperty2\bin\Debug\DepencyProperty2.exe
+D:\train\WpfTrain\DepencyProperty2\bin\Debug\DepencyProperty2.pdb
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\MainWindow.baml
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2.g.resources
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2.Properties.Resources.resources
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2.csproj.GenerateResource.Cache
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2.exe
+D:\train\WpfTrain\DepencyProperty2\obj\Debug\DepencyProperty2.pdb

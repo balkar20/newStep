@@ -1,0 +1,5 @@
+D:\newStep\Work\RixterTrain\Pool1\Tasks2\bin\Debug\Tasks2.exe.config
+D:\newStep\Work\RixterTrain\Pool1\Tasks2\bin\Debug\Tasks2.exe
+D:\newStep\Work\RixterTrain\Pool1\Tasks2\bin\Debug\Tasks2.pdb
+D:\newStep\Work\RixterTrain\Pool1\Tasks2\obj\Debug\Tasks2.exe
+D:\newStep\Work\RixterTrain\Pool1\Tasks2\obj\Debug\Tasks2.pdb

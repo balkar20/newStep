@@ -1,0 +1,13 @@
+D:\train\WpfTrain\CommandSamle1\bin\Debug\CommandSamle1.exe.config
+D:\train\WpfTrain\CommandSamle1\bin\Debug\CommandSamle1.exe
+D:\train\WpfTrain\CommandSamle1\bin\Debug\CommandSamle1.pdb
+D:\train\WpfTrain\CommandSamle1\obj\Debug\MainWindow.g.cs
+D:\train\WpfTrain\CommandSamle1\obj\Debug\App.g.cs
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1_MarkupCompile.cache
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1_MarkupCompile.lref
+D:\train\WpfTrain\CommandSamle1\obj\Debug\MainWindow.baml
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1.g.resources
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1.Properties.Resources.resources
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1.csproj.GenerateResource.Cache
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1.exe
+D:\train\WpfTrain\CommandSamle1\obj\Debug\CommandSamle1.pdb

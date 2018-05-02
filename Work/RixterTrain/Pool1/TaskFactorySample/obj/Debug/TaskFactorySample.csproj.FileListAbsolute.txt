@@ -1,0 +1,6 @@
+D:\newStep\Work\RixterTrain\Pool1\TaskFactorySample\bin\Debug\TaskFactorySample.exe.config
+D:\newStep\Work\RixterTrain\Pool1\TaskFactorySample\bin\Debug\TaskFactorySample.exe
+D:\newStep\Work\RixterTrain\Pool1\TaskFactorySample\bin\Debug\TaskFactorySample.pdb
+D:\newStep\Work\RixterTrain\Pool1\TaskFactorySample\obj\Debug\TaskFactorySample.csprojResolveAssemblyReference.cache
+D:\newStep\Work\RixterTrain\Pool1\TaskFactorySample\obj\Debug\TaskFactorySample.exe
+D:\newStep\Work\RixterTrain\Pool1\TaskFactorySample\obj\Debug\TaskFactorySample.pdb

@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Tasks\bin\Debug\Tasks.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Tasks\bin\Debug\Tasks.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Tasks\obj\Debug\Tasks.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\Rixter\Pool1\Tasks\obj\Debug\Tasks.pdb
