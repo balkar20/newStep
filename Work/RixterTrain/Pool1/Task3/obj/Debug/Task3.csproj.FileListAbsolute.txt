@@ -1,0 +1,6 @@
+D:\newStep\Work\RixterTrain\Pool1\Task3\bin\Debug\Task3.exe.config
+D:\newStep\Work\RixterTrain\Pool1\Task3\bin\Debug\Task3.exe
+D:\newStep\Work\RixterTrain\Pool1\Task3\bin\Debug\Task3.pdb
+D:\newStep\Work\RixterTrain\Pool1\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\newStep\Work\RixterTrain\Pool1\Task3\obj\Debug\Task3.exe
+D:\newStep\Work\RixterTrain\Pool1\Task3\obj\Debug\Task3.pdb

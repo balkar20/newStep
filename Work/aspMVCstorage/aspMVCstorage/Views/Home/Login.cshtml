@@ -1,0 +1,22 @@
+﻿
+@{
+    string userName = null;
+    if (User.Identity.IsAuthenticated)
+    {
+        userName = User.Identity.Name;
+    }
+}
+
+<h2>Login</h2>
+<h3>
+    @if (userName != null)
+    {
+        @:Hello @userName
+    }
+</h3>
+<form method="POST">
+    <input type="text" name="userName"/>
+    <input type ="password" name="password"/>
+    <input type ="submit"/>
+</form>
+
