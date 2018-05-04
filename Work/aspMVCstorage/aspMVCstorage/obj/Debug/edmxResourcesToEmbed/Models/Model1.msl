@@ -1,13 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="authtrainModelStoreContainer" CdmEntityContainer="authtrainEntities">
-    <EntitySetMapping Name="user">
-      <EntityTypeMapping TypeName="authtrainModel.User">
-        <MappingFragment StoreEntitySet="user">
+  <EntityContainerMapping StorageEntityContainer="authtrainModelStoreContainer" CdmEntityContainer="authtrainEntities1">
+    <EntitySetMapping Name="role">
+      <EntityTypeMapping TypeName="authtrainModel.role">
+        <MappingFragment StoreEntitySet="role">
           <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user">
+      <EntityTypeMapping TypeName="authtrainModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Email" ColumnName="Email" />
           <ScalarProperty Name="Password" ColumnName="Password" />
           <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

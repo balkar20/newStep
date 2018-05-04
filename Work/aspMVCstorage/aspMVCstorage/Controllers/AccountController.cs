@@ -22,8 +22,8 @@ namespace aspMVCstorage.Controllers
         {
             if (ModelState.IsValid)
             {
-                User user = null;
-                using (authtrainEntities db = new authtrainEntities())
+                user user = null;
+                using (authtrainEntities1 db = new authtrainEntities1())
                 {
                     user = db.Users.FirstOrDefault(u => u.Email == model.Name && u.Password == model.Password);
                 }
@@ -53,22 +53,23 @@ namespace aspMVCstorage.Controllers
         {
             if (ModelState.IsValid)
             {
-                User user = null;
-                using (authtrainEntities db = new authtrainEntities())
+                user user = null;
+                using (authtrainEntities1 db = new authtrainEntities1())
                 {
                     user = db.Users.FirstOrDefault(u => u.Email == model.Name);
                 }
 
                 if (user == null)
                 {
-                    //create new user
-                    using (authtrainEntities db = new authtrainEntities())
+                    //create new User
+                    using (authtrainEntities1 db = new authtrainEntities1())
                     {
-                        db.Users.Add(new User()
+                        db.Users.Add(new user()
                         {
                             Email = model.Name,
                             Password = model.Password,
                             Age = model.Age,
+                            RoleId = 2
                         });
 
                         db.SaveChanges();

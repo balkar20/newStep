@@ -71,3 +71,5 @@ D:\newStep\Work\aspMVCstorage\aspMVCstorage\bin\EntityFramework.SqlServer.xml
 D:\newStep\Work\aspMVCstorage\aspMVCstorage\obj\Debug\aspMVCstorage.csprojResolveAssemblyReference.cache
 D:\newStep\Work\aspMVCstorage\aspMVCstorage\bin\MySql.Data.dll
 D:\newStep\Work\aspMVCstorage\aspMVCstorage\bin\MySql.Data.Entity.EF6.dll
+D:\newStep\Work\aspMVCstorage\aspMVCstorage\bin\System.Web.Providers.dll
+D:\newStep\Work\aspMVCstorage\aspMVCstorage\bin\System.Web.Providers.xml

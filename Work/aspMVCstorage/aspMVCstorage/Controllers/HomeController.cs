@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Security;
+using aspMVCstorage.Filters;
 
 namespace aspMVCstorage.Controllers
 {
@@ -18,11 +19,21 @@ namespace aspMVCstorage.Controllers
             }
             return result;
         }
-        [Authorize]
+        [Authorize(Roles = "admin")]
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
             return View();
+        }
+        [MyAuth]
+        public string Tester()
+        {
+            return User.Identity.Name;
+        }
+
+        public string Red()
+        {
+            return "Red";
         }
     }
 }
